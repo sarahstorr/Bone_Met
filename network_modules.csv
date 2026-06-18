@@ -1,0 +1,7 @@
+module,n_genes,composition,EG_HR,EG_cox_p,hub_gene,hub_kME
+6,27,37% gained,0.8,0.061,GABRP,0.87
+9,7,0% gained,1.1,0.3179,C4B,0.89
+4,4,0% gained,1.08,0.5582,ADAM23,0.81
+2,5,60% gained,1.07,0.6844,PRSS35,0.82
+3,5,60% gained,1.02,0.8801,MMP9,0.77
+7,34,3% gained,1.01,0.8849,PODN,0.89
